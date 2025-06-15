@@ -1,4 +1,4 @@
-# 🔥 Simple PySpark Pipeline on AWS EMR with Terraform
+# 🔥 Simple PySpark Pipeline on AWS EMR
 
 This repository contains a lightweight **PySpark-based pipeline** that runs on **Amazon EMR**, designed to follow a minimal and reproducible workflow:
 
